@@ -3,13 +3,14 @@
   <groupId>tw.hyin.java</groupId>
   <artifactId>hyin-shared-utils</artifactId>
   <versioning>
-    <release>1.6</release>
+    <release>1.6.1</release>
     <versions>
       <version>1.4</version>
       <version>1.4.1</version>
       <version>1.5</version>
       <version>1.6</version>
+      <version>1.6.1</version>
     </versions>
-    <lastUpdated>20220811053726</lastUpdated>
+    <lastUpdated>20220811061433</lastUpdated>
   </versioning>
 </metadata>
